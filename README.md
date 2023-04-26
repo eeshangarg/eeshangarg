@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software engineer and open-source developer. I am passionate about open-source software and have contributed to major open-source projects for over a decade. Computers have been indispensable instruments of change and empowerment in my life and helped me build the life I wanted. I hope to help others do the same!
+I am a software engineer and open-source developer. I am passionate about open-source software and have contributed to major open-source projects for over a decade. Computers have been indispensable instruments of change and empowerment in my life that have helped me build the life I wanted. I hope to help others do the same!
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [eeshangarg@protonmail.com](mailto:eeshangarg@protonmail.com)
